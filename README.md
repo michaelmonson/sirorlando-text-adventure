@@ -1,7 +1,8 @@
 # sirorlando-text-adventure
 
 ### September 2019
-My first attempt at creating a nostalgic Text Adventure game to hail back to the golden age of Adventure, Colossal Cave, Zork!, and many other Infocom classics.
+This is my first attempt in a long time at creating a nostalgic Text Adventure game to hail back to the golden age of Adventure, Colossal Cave, Zork!, and many other Infocom classics.
+I've attempted it a few different times, with success, but it has been a long time, and I know far more about strong architectural patterns and good programming practices.  This will be fun!
 
 For those of you who grew up in the modern age of Windows and beyond, you may not have an appreciation for the text-driven adventures of 30 years ago.  The stories found within well-written text adventures were compelling, engaging, and made use of clever language parsor's.  
 
